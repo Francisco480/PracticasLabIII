@@ -7,7 +7,7 @@ import List from './components/list/List';
 
 function App() {
   
-
+  const names = ["Parker","Simmons","Lewis","Poe"];
   return (
     <>
       <div>   
